@@ -1,5 +1,5 @@
 group: mmlu_random_expert_identity_1
-group_alias: mmlu (Random 1)
+group_alias: mmlu (Random Expert Identity 1)
 task:
   - group: stem
     task:
