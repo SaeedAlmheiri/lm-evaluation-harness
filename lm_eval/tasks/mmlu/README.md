@@ -37,6 +37,7 @@ Note: The `Flan` variants are derived from [here](https://github.com/jasonwei20/
 * `mmlu`: `Original multiple-choice MMLU benchmark`
 * `mmlu_continuation`: `MMLU but with continuation prompts`
 * `mmlu_generation`: `MMLU generation`
+* `mmlu_random_expert_identity_1`: `MMLU random_expert_identity_1`
 
 MMLU is the original benchmark as implemented by Hendrycks et al. with the choices in context and the answer letters (e.g `A`, `B`, `C`, `D`) in the continuation.
 `mmlu_continuation` is a cloze-style variant without the choices in context and the full answer choice in the continuation.

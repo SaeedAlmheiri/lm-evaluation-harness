@@ -1,0 +1,6 @@
+"dataset_name": "global_facts"
+"description": "The following are questions (with answers) about global\
+  \ facts.\n\n"
+"tag": "mmlu_random_expert_identity_1_other"
+"include": "_random_expert_identity_1_template_yaml"
+"task": "mmlu_random_expert_identity_1_global_facts"

@@ -1,0 +1,6 @@
+"dataset_name": "computer_security"
+"description": "The following are questions (with answers) about computer\
+  \ security.\n\n"
+"tag": "mmlu_random_expert_identity_1_stem"
+"include": "_random_expert_identity_1_template_yaml"
+"task": "mmlu_random_expert_identity_1_computer_security"

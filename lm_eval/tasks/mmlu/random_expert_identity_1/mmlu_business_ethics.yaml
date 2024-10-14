@@ -1,0 +1,6 @@
+"dataset_name": "business_ethics"
+"description": "The following are questions (with answers) about business\
+  \ ethics.\n\n"
+"tag": "mmlu_random_expert_identity_1_other"
+"include": "_random_expert_identity_1_template_yaml"
+"task": "mmlu_random_expert_identity_1_business_ethics"

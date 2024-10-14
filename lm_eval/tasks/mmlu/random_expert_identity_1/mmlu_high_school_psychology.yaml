@@ -1,0 +1,6 @@
+"dataset_name": "high_school_psychology"
+"description": "The following are questions (with answers) about high\
+  \ school psychology.\n\n"
+"tag": "mmlu_random_expert_identity_1_social_sciences"
+"include": "_random_expert_identity_1_template_yaml"
+"task": "mmlu_random_expert_identity_1_high_school_psychology"

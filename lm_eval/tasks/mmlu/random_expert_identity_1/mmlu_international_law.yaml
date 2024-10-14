@@ -1,0 +1,6 @@
+"dataset_name": "international_law"
+"description": "The following are questions (with answers) about international\
+  \ law.\n\n"
+"tag": "mmlu_random_expert_identity_1_humanities"
+"include": "_random_expert_identity_1_template_yaml"
+"task": "mmlu_random_expert_identity_1_international_law"
