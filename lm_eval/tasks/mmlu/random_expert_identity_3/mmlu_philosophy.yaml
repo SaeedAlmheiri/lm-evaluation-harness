@@ -1,0 +1,6 @@
+"dataset_name": "philosophy"
+"description": "The following are questions (with answers) about philosophy.\n\
+  \n"
+"tag": "mmlu_random_expert_identity_3_humanities"
+"include": "_random_expert_identity_3_template_yaml"
+"task": "mmlu_random_expert_identity_3_philosophy"

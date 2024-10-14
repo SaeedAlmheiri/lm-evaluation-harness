@@ -1,0 +1,6 @@
+"dataset_name": "high_school_computer_science"
+"description": "The following are questions (with answers) about high\
+  \ school computer science.\n\n"
+"tag": "mmlu_random_expert_identity_3_stem"
+"include": "_random_expert_identity_3_template_yaml"
+"task": "mmlu_random_expert_identity_3_high_school_computer_science"

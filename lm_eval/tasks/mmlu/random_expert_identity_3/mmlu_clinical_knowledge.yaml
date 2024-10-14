@@ -1,0 +1,6 @@
+"dataset_name": "clinical_knowledge"
+"description": "The following are questions (with answers) about clinical\
+  \ knowledge.\n\n"
+"tag": "mmlu_random_expert_identity_3_other"
+"include": "_random_expert_identity_3_template_yaml"
+"task": "mmlu_random_expert_identity_3_clinical_knowledge"

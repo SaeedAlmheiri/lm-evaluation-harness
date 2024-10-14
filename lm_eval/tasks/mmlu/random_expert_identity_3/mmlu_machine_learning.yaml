@@ -1,0 +1,6 @@
+"dataset_name": "machine_learning"
+"description": "The following are questions (with answers) about machine\
+  \ learning.\n\n"
+"tag": "mmlu_random_expert_identity_3_stem"
+"include": "_random_expert_identity_3_template_yaml"
+"task": "mmlu_random_expert_identity_3_machine_learning"

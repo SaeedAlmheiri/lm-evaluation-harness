@@ -1,0 +1,6 @@
+"dataset_name": "conceptual_physics"
+"description": "The following are questions (with answers) about conceptual\
+  \ physics.\n\n"
+"tag": "mmlu_random_expert_identity_3_stem"
+"include": "_random_expert_identity_3_template_yaml"
+"task": "mmlu_random_expert_identity_3_conceptual_physics"

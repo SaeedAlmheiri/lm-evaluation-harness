@@ -1,0 +1,6 @@
+"dataset_name": "logical_fallacies"
+"description": "The following are questions (with answers) about logical\
+  \ fallacies.\n\n"
+"tag": "mmlu_random_expert_identity_3_humanities"
+"include": "_random_expert_identity_3_template_yaml"
+"task": "mmlu_random_expert_identity_3_logical_fallacies"
