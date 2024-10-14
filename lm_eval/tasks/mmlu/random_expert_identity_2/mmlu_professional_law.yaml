@@ -1,0 +1,6 @@
+"dataset_name": "professional_law"
+"description": "The following are questions (with answers) about professional\
+  \ law.\n\n"
+"tag": "mmlu_random_expert_identity_2_humanities"
+"include": "_random_expert_identity_2_template_yaml"
+"task": "mmlu_random_expert_identity_2_professional_law"

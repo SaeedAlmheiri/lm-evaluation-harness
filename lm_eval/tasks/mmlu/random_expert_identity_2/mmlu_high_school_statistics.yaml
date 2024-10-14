@@ -1,0 +1,6 @@
+"dataset_name": "high_school_statistics"
+"description": "The following are questions (with answers) about high\
+  \ school statistics.\n\n"
+"tag": "mmlu_random_expert_identity_2_stem"
+"include": "_random_expert_identity_2_template_yaml"
+"task": "mmlu_random_expert_identity_2_high_school_statistics"

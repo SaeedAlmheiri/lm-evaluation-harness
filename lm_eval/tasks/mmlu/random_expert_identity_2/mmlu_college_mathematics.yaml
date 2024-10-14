@@ -1,0 +1,6 @@
+"dataset_name": "college_mathematics"
+"description": "The following are questions (with answers) about college\
+  \ mathematics.\n\n"
+"tag": "mmlu_random_expert_identity_2_stem"
+"include": "_random_expert_identity_2_template_yaml"
+"task": "mmlu_random_expert_identity_2_college_mathematics"

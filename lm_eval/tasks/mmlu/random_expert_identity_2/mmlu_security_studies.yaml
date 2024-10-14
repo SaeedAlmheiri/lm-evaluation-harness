@@ -1,0 +1,6 @@
+"dataset_name": "security_studies"
+"description": "The following are questions (with answers) about security\
+  \ studies.\n\n"
+"tag": "mmlu_random_expert_identity_2_social_sciences"
+"include": "_random_expert_identity_2_template_yaml"
+"task": "mmlu_random_expert_identity_2_security_studies"
