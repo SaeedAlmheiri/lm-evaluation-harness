@@ -1,0 +1,6 @@
+"dataset_name": "high_school_government_and_politics"
+"description": "The following are questions (with answers) about high\
+  \ school government and politics.\n\n"
+"tag": "mmlu_RAG_expert_identity_1_social_sciences"
+"include": "_RAG_expert_identity_1_template_yaml"
+"task": "mmlu_RAG_expert_identity_1_high_school_government_and_politics"

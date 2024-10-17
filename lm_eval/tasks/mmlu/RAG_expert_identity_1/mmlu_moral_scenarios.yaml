@@ -1,0 +1,6 @@
+"dataset_name": "moral_scenarios"
+"description": "The following are questions (with answers) about moral\
+  \ scenarios.\n\n"
+"tag": "mmlu_RAG_expert_identity_1_humanities"
+"include": "_RAG_expert_identity_1_template_yaml"
+"task": "mmlu_RAG_expert_identity_1_moral_scenarios"

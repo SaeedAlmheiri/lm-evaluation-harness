@@ -1,0 +1,6 @@
+"dataset_name": "virology"
+"description": "The following are questions (with answers) about virology.\n\
+  \n"
+"tag": "mmlu_RAG_expert_identity_1_other"
+"include": "_RAG_expert_identity_1_template_yaml"
+"task": "mmlu_RAG_expert_identity_1_virology"

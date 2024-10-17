@@ -1,0 +1,6 @@
+"dataset_name": "philosophy"
+"description": "The following are questions (with answers) about philosophy.\n\
+  \n"
+"tag": "mmlu_RAG_expert_identity_1_humanities"
+"include": "_RAG_expert_identity_1_template_yaml"
+"task": "mmlu_RAG_expert_identity_1_philosophy"

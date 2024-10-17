@@ -1,0 +1,6 @@
+"dataset_name": "econometrics"
+"description": "The following are questions (with answers) about econometrics.\n\
+  \n"
+"tag": "mmlu_RAG_expert_identity_1_social_sciences"
+"include": "_RAG_expert_identity_1_template_yaml"
+"task": "mmlu_RAG_expert_identity_1_econometrics"

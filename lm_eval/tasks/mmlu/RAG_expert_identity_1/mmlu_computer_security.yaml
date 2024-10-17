@@ -1,0 +1,6 @@
+"dataset_name": "computer_security"
+"description": "The following are questions (with answers) about computer\
+  \ security.\n\n"
+"tag": "mmlu_RAG_expert_identity_1_stem"
+"include": "_RAG_expert_identity_1_template_yaml"
+"task": "mmlu_RAG_expert_identity_1_computer_security"
