@@ -1,0 +1,6 @@
+"dataset_name": "conceptual_physics"
+"description": "The following are questions (with answers) about conceptual\
+  \ physics.\n\n"
+"tag": "mmlu_RAG_expert_identity_2_stem"
+"include": "_RAG_expert_identity_2_template_yaml"
+"task": "mmlu_RAG_expert_identity_2_conceptual_physics"

@@ -1,0 +1,6 @@
+"dataset_name": "clinical_knowledge"
+"description": "The following are questions (with answers) about clinical\
+  \ knowledge.\n\n"
+"tag": "mmlu_RAG_expert_identity_2_other"
+"include": "_RAG_expert_identity_2_template_yaml"
+"task": "mmlu_RAG_expert_identity_2_clinical_knowledge"

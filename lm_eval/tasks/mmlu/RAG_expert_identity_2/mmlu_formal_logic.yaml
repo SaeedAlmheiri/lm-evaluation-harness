@@ -1,0 +1,6 @@
+"dataset_name": "formal_logic"
+"description": "The following are questions (with answers) about formal\
+  \ logic.\n\n"
+"tag": "mmlu_RAG_expert_identity_2_humanities"
+"include": "_RAG_expert_identity_2_template_yaml"
+"task": "mmlu_RAG_expert_identity_2_formal_logic"
