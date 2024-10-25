@@ -1,0 +1,6 @@
+"dataset_name": "marketing"
+"description": "The following are questions (with answers) about marketing.\n\
+  \n"
+"tag": "mmlu_RAG_expert_identity_3_other"
+"include": "_RAG_expert_identity_3_template_yaml"
+"task": "mmlu_RAG_expert_identity_3_marketing"

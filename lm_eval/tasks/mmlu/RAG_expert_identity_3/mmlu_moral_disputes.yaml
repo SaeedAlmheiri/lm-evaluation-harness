@@ -1,0 +1,6 @@
+"dataset_name": "moral_disputes"
+"description": "The following are questions (with answers) about moral\
+  \ disputes.\n\n"
+"tag": "mmlu_RAG_expert_identity_3_humanities"
+"include": "_RAG_expert_identity_3_template_yaml"
+"task": "mmlu_RAG_expert_identity_3_moral_disputes"

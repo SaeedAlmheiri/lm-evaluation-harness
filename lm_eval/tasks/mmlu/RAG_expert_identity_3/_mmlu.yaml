@@ -1,0 +1,32 @@
+group: mmlu_RAG_expert_identity_3
+group_alias: mmlu (Rag Expert Identity 3)
+task:
+  - group: stem
+    task:
+      - mmlu_RAG_expert_identity_3_stem
+    aggregate_metric_list:
+      - metric: acc
+        weight_by_size: True
+  - group: other
+    task:
+      - mmlu_RAG_expert_identity_3_other
+    aggregate_metric_list:
+      - metric: acc
+        weight_by_size: True
+  - group: social sciences
+    task:
+      - mmlu_RAG_expert_identity_3_social_sciences
+    aggregate_metric_list:
+      - metric: acc
+        weight_by_size: True
+  - group: humanities
+    task:
+      - mmlu_RAG_expert_identity_3_humanities
+    aggregate_metric_list:
+      - metric: acc
+        weight_by_size: True
+aggregate_metric_list:
+  - metric: acc
+    weight_by_size: True
+metadata:
+  version: 2

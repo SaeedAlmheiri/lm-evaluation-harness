@@ -1,0 +1,6 @@
+"dataset_name": "high_school_geography"
+"description": "The following are questions (with answers) about high\
+  \ school geography.\n\n"
+"tag": "mmlu_RAG_expert_identity_3_social_sciences"
+"include": "_RAG_expert_identity_3_template_yaml"
+"task": "mmlu_RAG_expert_identity_3_high_school_geography"

@@ -1,0 +1,6 @@
+"dataset_name": "high_school_physics"
+"description": "The following are questions (with answers) about high\
+  \ school physics.\n\n"
+"tag": "mmlu_RAG_expert_identity_3_stem"
+"include": "_RAG_expert_identity_3_template_yaml"
+"task": "mmlu_RAG_expert_identity_3_high_school_physics"
